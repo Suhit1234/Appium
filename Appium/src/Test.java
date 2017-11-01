@@ -7,7 +7,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello");
+		System.out.print("Hello12");
 		System.getProperty("webdriver.chrome.driver", "F:\\selenium-2.52.0\\chromedriver.exe");
 		WebDriver driver =new ChromeDriver();
 		//WebDriver driver =new FirefoxDriver();
